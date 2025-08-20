@@ -1,0 +1,7 @@
+#level-1 {
+  display: grid;
+  grid-template-columns: repeat(
+    2,
+    1fr
+  ); /*Used the short hand version for grid-template-columns to split the level-1 garden into two columns*/
+}
